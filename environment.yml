@@ -1,0 +1,31 @@
+name: spectrapy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy==1.23
+  - pint-xarray
+  - scipy
+  - xarray
+  - python==3.9
+  - h5py
+  - pentapy
+  - ipykernel
+  - packaging
+  - pybaselines
+  - matplotlib
+  - pint
+  - ipympl==0.7.0
+  - h5netcdf
+  - seaborn
+  - bottleneck
+  - dask
+  - pandas==1.5
+  - numba
+  - spyder-kernels
+  - pillow
+  - scikit-image
+  - zarr
+  - netcdf4
+  - tqdm
+  - scikit-learn
