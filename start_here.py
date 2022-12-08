@@ -10,7 +10,7 @@ from read_WDF import read_WDF
 
 
 # Nom de fichier avec le chemin pour y accèder:
-filename = "data/test.wdf"
+filename = "data/exampleA1.wdf"
 # charger le fichier:
 da, img = read_WDF(filename)
 # %% Visualiser:
